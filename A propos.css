@@ -91,13 +91,7 @@ h1{
 
 .description{
     justify-content: center;
-position: relative;
-right: -5px;
-bottom: -90px;
-
-    border-radius: 10px;
-    border: black solid;
-    background-color: gold;
+display-flex: center;
     width: 600px;
     padding: 5px;
     
@@ -106,13 +100,7 @@ bottom: -90px;
 }
 .biographie{
     justify-content: center;
-position: relative;
-left: 670px;
-bottom: 20px;
 
-    border-radius: 10px;
-    border: black solid;
-    background-color: gold;
     width: 600px;
     padding: 5px;
     
